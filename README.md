@@ -11,3 +11,4 @@
 First, try to add the movements in the body section by pressing "W, A, S, D" keys then press "Space" or "Enter" to move the player
 
 # Check this code
+https://awizp.github.io/Functionator-js/
