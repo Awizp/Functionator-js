@@ -1,5 +1,5 @@
 # Functionator
-* In this project exlore more about keypress events add in various elements to move the box in display
+* In this project exlore more about keypress events, added in various elements to move the player in display
 
 1. Add the div element(Player) with width and height and made it to position: absolute relative to the document
 2. Add the event listener to the document to listen what keys are pressed at the moment
